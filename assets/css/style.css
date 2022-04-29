@@ -30,6 +30,10 @@ body {
     font-size: 50px;
 }
 
+.nav nav ul {
+    list-style-type: none;
+}
+
 .landing {
     height: 800px;
     width: 100%;
