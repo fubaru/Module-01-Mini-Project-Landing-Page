@@ -50,5 +50,7 @@ body {
 }
 
 .aboutus {
-    
+    width: 60%;
+    display: inline-block;
+    margin-left: 20px;
 }
