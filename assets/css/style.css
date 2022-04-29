@@ -8,6 +8,11 @@ body {
     background-color: rgba(245, 245, 245, 0.863);
 }
 
+a {
+    color: azure;
+    text-decoration: none;
+}
+
 .nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
