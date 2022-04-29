@@ -11,7 +11,7 @@ body {
 .nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: cadetblue;
+    background-color: rgb(192, 192, 184);
     color: azure;
     position: fixed;
     top: 0;
@@ -44,7 +44,7 @@ body {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../imgs/timothy-newman-ynBWYW23BFY-unsplash.jpg");
+    background-image: url("../imgs/photos-g5d14c6b30_1920.jpg");
     background-size: cover;
     background-position: center;
 }
