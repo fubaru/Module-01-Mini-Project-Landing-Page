@@ -111,3 +111,16 @@ input[type=submit]:hover {
     background-color: #f2f2f2;
     padding: 20px;
 }
+
+.package {
+    margin-right: 20px;
+    padding: 10px;
+    clear: both;
+    float: right;
+    width: 30%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkkhaki;
+    font-size: xx-large;
+    color: azure;
+}
