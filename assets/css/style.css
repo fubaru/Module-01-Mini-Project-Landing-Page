@@ -65,20 +65,22 @@ a {
     margin-left: 20px;
 }
 
-.aboutus {
+.aboutus,
+.contactform {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: darkkhaki;
     color: #ffffff;
 }
 
+.aboutus {
+    height: 300px;
+}
+
 .aboutus img {
     max-height: 200px;
 }
-
-.contactform {}
 
 input[type=text], select, textarea {
     width: 100%; /* Full width */
